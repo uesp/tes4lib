@@ -1,0 +1,47 @@
+# Microsoft Developer Studio Generated Dependency File, included by ObFileLib.mak
+
+.\common\oberror.cpp : \
+	".\common\oberror.h"\
+	".\common\obtypes.h"\
+	".\common\sstring.h"\
+	
+
+.\common\oberrorhandler.cpp : \
+	".\common\oberror.h"\
+	".\common\oberrorhandler.h"\
+	".\common\oblogfile.h"\
+	".\common\obtypes.h"\
+	".\common\sstring.h"\
+	
+
+.\common\obfile.cpp : \
+	".\common\oberror.h"\
+	".\common\oberrorhandler.h"\
+	".\common\obfile.h"\
+	".\common\obtypes.h"\
+	".\common\sstring.h"\
+	
+
+.\obfiletest.cpp : \
+	".\common\oberror.h"\
+	".\common\oberrorhandler.h"\
+	".\common\oblogfile.h"\
+	".\common\obtypes.h"\
+	".\common\sstring.h"\
+	
+
+.\common\oblogfile.cpp : \
+	".\common\oblogfile.h"\
+	".\common\obtypes.h"\
+	
+
+.\common\sstring.cpp : \
+	".\common\obtypes.h"\
+	".\common\sstring.h"\
+	
+
+.\common\test\sstring_test.cpp : \
+	".\common\oblogfile.h"\
+	".\common\obtypes.h"\
+	".\common\sstring.h"\
+	

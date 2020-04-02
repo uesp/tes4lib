@@ -1,0 +1,254 @@
+0 = Strength
+1 = Intelligence
+2 = Willpower
+3 = Agility
+4 = Speed
+5 = Endurance
+6 = Personality
+7 = Luck
+8 = Health
+9 = Magicka
+10 = Fatigue
+11 = Encumbrance
+12 = Armorer
+13 = Athletics
+14 = Blade
+15 = Block
+16 = Blunt
+17 = Hand To Hand
+18 = Heavy Armor
+19 = Alchemy
+20 = Alteration
+21 = Conjuration
+22 = Destruction
+23 = Illusion
+24 = Mysticism
+25 = Restoration
+26 = Acrobatics
+27 = Light Armor
+28 = Marksman
+29 = Mercantile
+30 = Security
+31 = Sneak
+32 = Speechcraft
+33 = Aggression
+34 = Confidence
+35 = Energy
+36 = Responsibility
+37 = Bounty
+38 = Fame
+39 = Infamy
+40 = Strength Description
+41 = Intelligence Description
+42 = Willpower Description
+43 = Agility Description
+44 = Speed Description
+45 = Endurance Description
+46 = Personality Description
+47 = Luck Description
+48 = Health Description
+49 = Magicka Description
+50 = Fatigue Description
+51 = Encumbrance Description
+52 = Armorer Description
+53 = Athletics Description
+54 = Blade Description
+55 = Block Description
+56 = Blunt Description
+57 = Hand To Hand Description
+58 = Heavy Armor Description
+59 = Alchemy Description
+60 = Alteration Description
+61 = Conjuration Description
+62 = Destruction Description
+63 = Illusion Description
+64 = Mysticism Description
+65 = Restoration Description
+66 = Acrobatics Description
+67 = Light Armor Description
+68 = Marksman Description
+69 = Mercantile Description
+70 = Security Description
+71 = Sneak Description
+72 = Speechcraft Description
+73 = Menus\Stats\stat_pop_icon_strenÌÈk4
+74 = Menus\Stats\stat_pop_icon_intelÌÈk4
+75 = Menus\Stats\stat_pop_icon_willpÌÈk4
+76 = Menus\Stats\stat_pop_icon_agiliÌÈk4
+77 = Menus\Stats\stat_pop_icon_speedÌÈk4
+78 = Menus\Stats\stat_pop_icon_endurÌÈk4
+79 = Menus\Stats\stat_pop_icon_persoÌÈk4
+80 = Menus\Stats\stat_pop_icon_luck.ÌÈk4
+81 = Menus\Level_up\attributes_iconsÌÈk4
+82 = Menus\Level_up\attributes_iconsÌÈk4
+83 = Menus\Level_up\attributes_iconsÌÈk4
+84 = Menus\Level_up\attributes_iconsÌÈk4
+85 = Menus\Level_up\attributes_iconsÌÈk4
+86 = Menus\Level_up\attributes_iconsÌÈk4
+87 = Menus\Level_up\attributes_iconsÌÈk4
+88 = Menus\Level_up\attributes_iconsÌÈk4
+89 = Menus\Stats\stat_pop_icon_healtÌÈk4
+90 = Menus\Stats\stat_pop_icon_magicÌÈk4
+91 = Menus\Stats\stat_pop_icon_fatigÌÈk4
+92 = Menus\Stats\stat_pop_icon_encumÌÈk4
+93 = Menus\Stats\stat_pop_icon_armorÌÈk4
+94 = Menus\Stats\stat_pop_icon_athleÌÈk4
+95 = Menus\Stats\stat_pop_icon_bladeÌÈk4
+96 = Menus\Stats\stat_pop_icon_blockÌÈk4
+97 = Menus\Stats\stat_pop_icon_bluntÌÈk4
+98 = Menus\Stats\stat_pop_icon_hand ÌÈk4
+99 = Menus\Stats\stat_pop_icon_heavyÌÈk4
+100 = Menus\Stats\stat_pop_icon_alcheÌÈk4
+101 = Menus\Stats\stat_pop_icon_alterÌÈk4
+102 = Menus\Stats\stat_pop_icon_conjuÌÈk4
+103 = Menus\Stats\stat_pop_icon_destrÌÈk4
+104 = Menus\Stats\stat_pop_icon_illusÌÈk4
+105 = Menus\Stats\stat_pop_icon_mystiÌÈk4
+106 = Menus\Stats\stat_pop_icon_restoÌÈk4
+107 = Menus\Stats\stat_pop_icon_acrobÌÈk4
+108 = Menus\Stats\stat_pop_icon_lightÌÈk4
+109 = Menus\Stats\stat_pop_icon_marksÌÈk4
+110 = Menus\Stats\stat_pop_icon_mercaÌÈk4
+111 = Menus\Stats\stat_pop_icon_securÌÈk4
+112 = Menus\Stats\stat_pop_icon_sneakÌÈk4
+113 = Menus\Stats\stat_pop_icon_speecÌÈk4
+114 = Menus\Stats\stat_pop_icon_speecÌÈk4
+115 = Steal
+116 = Pickpocket
+117 = Trespass
+118 = Attack
+119 = Murder
+120 = Steal Horse
+121 = Steal Horse
+122 = Steal Horse
+123 = Steal Horse
+124 = Steal Horse
+125 = Steal Horse
+126 = Steal Horse
+127 = Steal Horse
+128 = Steal Horse
+129 = Steal Horse
+130 = Steal Horse
+131 = Steal Horse
+132 = Steal Horse
+133 = Steal Horse
+134 = Steal Horse
+135 = Steal Horse
+136 = Steal Horse
+137 = Steal Horse
+138 = Steal Horse
+139 = Steal Horse
+140 = Steal Horse
+141 = Steal Horse
+142 = Steal Horse
+143 = Steal Horse
+144 = Steal Horse
+145 = Steal Horse
+146 = Steal Horse
+147 = Novice
+148 = Apprentice
+149 = Journeyman
+150 = Expert
+151 = Master
+152 = Master
+153 = Master
+154 = Master
+155 = Master
+156 = ¹øé
+157 = ëUÕÿ£„í
+158 = Ë]Õÿ£\ë
+159 = ÛnÕÿ£Të
+160 = ;~Õÿ£0ì
+161 = Û…Õÿ£<í
+162 = Õÿ£dë
+163 = xí
+164 = İ¶ÿhà
+‘
+165 = »¶ÿhğ
+‘
+166 = »¶ÿh
+167 = 
+168 = 
+169 = º¶ÿh0‘
+170 = º¶ÿh@‘
+171 = hP‘
+172 = h`‘
+173 = hp‘
+174 = h€‘
+175 = h‘
+176 = h ‘
+177 = h°‘
+178 = hÀ‘
+179 = ¸éi
+180 = ¸éi
+181 = ¸éi
+182 = ¸éi
+183 = ¸éi
+184 = ¸éi
+185 = ¸éi
+186 = ¸éi
+187 = Û1Õÿ£LŸ
+188 = {=Õÿ£¸
+189 = »EÕÿ£Ô
+190 = ËQÕÿ£lŸ
+191 = «YÕÿ£Ø
+192 = »jÕÿ£À
+193 = zÕÿ£,Ÿ
+194 = »Õÿ£@Ÿ
+195 = û‰Õÿ£à
+196 = PŸ
+197 = PŸ
+198 = PŸ
+199 = h€‘
+200 = h‘
+201 = h‘
+202 = ]²ÿh°‘
+203 = hÀ‘
+204 = hĞ‘
+205 = i³ÿhà‘
+206 = h³ÿhğ‘
+207 = \²ÿh
+208 = h³ÿh‘
+209 = h³ÿh ‘
+210 = h0‘
+211 = +Õÿ£ØŸ
+212 = 
+213 = [:Õÿ£ÌŸ
+214 = ›BÕÿ£èŸ
+215 = «NÕÿ£Ÿ
+216 = ‹VÕÿ£ìŸ
+217 = ›gÕÿ£ÜŸ
+218 = ›gÕÿ£ÜŸ
+219 = ›~Õÿ£ÌŸ
+220 = Û†Õÿ£ôŸ
+221 = Û†Õÿ£ôŸ
+222 = Û†Õÿ£ôŸ
+223 = Û†Õÿ£ôŸ
+224 = Û†Õÿ£ôŸ
+225 = Û†Õÿ£ôŸ
+226 = èürüÿYÃÌÌÌÌÌÌÌÌh\š’
+227 = f³ÿhĞ‘
+228 = f³ÿhà‘
+229 = f³ÿhğ‘
+230 = e³ÿh
+231 = h‘
+232 = h ‘
+233 = e³ÿh0‘
+234 = h@‘
+235 = hP‘
+236 = h`‘
+237 = 
+238 = Ô¶ÿhP‘
+239 = Ô¶ÿh`‘
+240 = h€‘
+241 = 
+242 = h ‘
+243 = h ‘
+244 = h ‘
+245 = h ‘
+246 = h ‘
+247 = «Õÿ£°Ÿ
+248 = ;*Õÿ£HŸ
+249 = ;*Õÿ£HŸ
+250 = >Õÿ£¸Ÿ
+251 = +JÕÿ£ˆŸ
